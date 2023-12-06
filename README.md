@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brolupyr777 aka Bohdan
-- 👀 I’m interested in Javascript, React, and learning any frameworks
-- 🌱 I’m currently learning Javascript, React and front end development
-- 💞️ I’m looking to collaborate on any Javascript, or React projects
+- 👀 I’m interested in Web, and Machine Learning
+- 🌱 I’m currently learning React, and C
+- 💞️ I’m looking to collaborate on any Web or ML related projects
 - 📫 You can reach me by my email address: bohdan.lupyr@gmail.com
 
 <!---
